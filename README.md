@@ -11,5 +11,5 @@ Se estiver usando Git local:
 * git init
 * git add .
 * git commit -m "Projeto inicial"
-* git remote add origin https://github.com/GabrielCardoso1914/Primeiro-projeto-html.git
+* git remote add origin https://github.com/USUARIO/REPOSITORIO.git
 * git push -u origin main
